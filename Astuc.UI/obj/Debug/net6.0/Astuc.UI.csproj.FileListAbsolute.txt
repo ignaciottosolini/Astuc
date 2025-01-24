@@ -1,0 +1,11 @@
+C:\repo\Astuc\Astuc.UI\bin\Debug\net6.0\Astuc.UI.deps.json
+C:\repo\Astuc\Astuc.UI\bin\Debug\net6.0\Astuc.UI.dll
+C:\repo\Astuc\Astuc.UI\bin\Debug\net6.0\Astuc.UI.pdb
+C:\repo\Astuc\Astuc.UI\obj\Debug\net6.0\Astuc.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\repo\Astuc\Astuc.UI\obj\Debug\net6.0\Astuc.UI.AssemblyInfoInputs.cache
+C:\repo\Astuc\Astuc.UI\obj\Debug\net6.0\Astuc.UI.AssemblyInfo.cs
+C:\repo\Astuc\Astuc.UI\obj\Debug\net6.0\Astuc.UI.csproj.CoreCompileInputs.cache
+C:\repo\Astuc\Astuc.UI\obj\Debug\net6.0\Astuc.UI.dll
+C:\repo\Astuc\Astuc.UI\obj\Debug\net6.0\refint\Astuc.UI.dll
+C:\repo\Astuc\Astuc.UI\obj\Debug\net6.0\Astuc.UI.pdb
+C:\repo\Astuc\Astuc.UI\obj\Debug\net6.0\ref\Astuc.UI.dll

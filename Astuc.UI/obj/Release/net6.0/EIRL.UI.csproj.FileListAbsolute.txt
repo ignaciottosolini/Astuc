@@ -1,0 +1,11 @@
+C:\repo\EIRL\EIRL.UI\bin\Release\net6.0\EIRL.UI.deps.json
+C:\repo\EIRL\EIRL.UI\bin\Release\net6.0\EIRL.UI.dll
+C:\repo\EIRL\EIRL.UI\bin\Release\net6.0\EIRL.UI.pdb
+C:\repo\EIRL\EIRL.UI\obj\Release\net6.0\EIRL.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\repo\EIRL\EIRL.UI\obj\Release\net6.0\EIRL.UI.AssemblyInfoInputs.cache
+C:\repo\EIRL\EIRL.UI\obj\Release\net6.0\EIRL.UI.AssemblyInfo.cs
+C:\repo\EIRL\EIRL.UI\obj\Release\net6.0\EIRL.UI.csproj.CoreCompileInputs.cache
+C:\repo\EIRL\EIRL.UI\obj\Release\net6.0\EIRL.UI.dll
+C:\repo\EIRL\EIRL.UI\obj\Release\net6.0\refint\EIRL.UI.dll
+C:\repo\EIRL\EIRL.UI\obj\Release\net6.0\EIRL.UI.pdb
+C:\repo\EIRL\EIRL.UI\obj\Release\net6.0\ref\EIRL.UI.dll

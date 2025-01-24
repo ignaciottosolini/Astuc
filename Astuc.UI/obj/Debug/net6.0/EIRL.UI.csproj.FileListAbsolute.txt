@@ -1,0 +1,34 @@
+C:\Users\Master Gonza\Source\Repos\EIRL\EIRL.UI\bin\Debug\net6.0\EIRL.UI.deps.json
+C:\Users\Master Gonza\Source\Repos\EIRL\EIRL.UI\bin\Debug\net6.0\EIRL.UI.dll
+C:\Users\Master Gonza\Source\Repos\EIRL\EIRL.UI\bin\Debug\net6.0\EIRL.UI.pdb
+C:\Users\Master Gonza\Source\Repos\EIRL\EIRL.UI\obj\Debug\net6.0\EIRL.UI.csproj.AssemblyReference.cache
+C:\Users\Master Gonza\Source\Repos\EIRL\EIRL.UI\obj\Debug\net6.0\EIRL.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Master Gonza\Source\Repos\EIRL\EIRL.UI\obj\Debug\net6.0\EIRL.UI.AssemblyInfoInputs.cache
+C:\Users\Master Gonza\Source\Repos\EIRL\EIRL.UI\obj\Debug\net6.0\EIRL.UI.AssemblyInfo.cs
+C:\Users\Master Gonza\Source\Repos\EIRL\EIRL.UI\obj\Debug\net6.0\EIRL.UI.csproj.CoreCompileInputs.cache
+C:\Users\Master Gonza\Source\Repos\EIRL\EIRL.UI\obj\Debug\net6.0\EIRL.UI.dll
+C:\Users\Master Gonza\Source\Repos\EIRL\EIRL.UI\obj\Debug\net6.0\refint\EIRL.UI.dll
+C:\Users\Master Gonza\Source\Repos\EIRL\EIRL.UI\obj\Debug\net6.0\EIRL.UI.pdb
+C:\Users\Master Gonza\Source\Repos\EIRL\EIRL.UI\obj\Debug\net6.0\ref\EIRL.UI.dll
+C:\repo\EIRL\EIRL.UI\bin\Debug\net6.0\EIRL.UI.deps.json
+C:\repo\EIRL\EIRL.UI\bin\Debug\net6.0\EIRL.UI.dll
+C:\repo\EIRL\EIRL.UI\bin\Debug\net6.0\EIRL.UI.pdb
+C:\repo\EIRL\EIRL.UI\obj\Debug\net6.0\EIRL.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\repo\EIRL\EIRL.UI\obj\Debug\net6.0\EIRL.UI.AssemblyInfoInputs.cache
+C:\repo\EIRL\EIRL.UI\obj\Debug\net6.0\EIRL.UI.AssemblyInfo.cs
+C:\repo\EIRL\EIRL.UI\obj\Debug\net6.0\EIRL.UI.csproj.CoreCompileInputs.cache
+C:\repo\EIRL\EIRL.UI\obj\Debug\net6.0\EIRL.UI.dll
+C:\repo\EIRL\EIRL.UI\obj\Debug\net6.0\refint\EIRL.UI.dll
+C:\repo\EIRL\EIRL.UI\obj\Debug\net6.0\EIRL.UI.pdb
+C:\repo\EIRL\EIRL.UI\obj\Debug\net6.0\ref\EIRL.UI.dll
+\\DELL-I7\repo\EIRL\EIRL.UI\bin\Debug\net6.0\EIRL.UI.deps.json
+\\DELL-I7\repo\EIRL\EIRL.UI\bin\Debug\net6.0\EIRL.UI.dll
+\\DELL-I7\repo\EIRL\EIRL.UI\bin\Debug\net6.0\EIRL.UI.pdb
+\\DELL-I7\repo\EIRL\EIRL.UI\obj\Debug\net6.0\EIRL.UI.GeneratedMSBuildEditorConfig.editorconfig
+\\DELL-I7\repo\EIRL\EIRL.UI\obj\Debug\net6.0\EIRL.UI.AssemblyInfoInputs.cache
+\\DELL-I7\repo\EIRL\EIRL.UI\obj\Debug\net6.0\EIRL.UI.AssemblyInfo.cs
+\\DELL-I7\repo\EIRL\EIRL.UI\obj\Debug\net6.0\EIRL.UI.csproj.CoreCompileInputs.cache
+\\DELL-I7\repo\EIRL\EIRL.UI\obj\Debug\net6.0\EIRL.UI.dll
+\\DELL-I7\repo\EIRL\EIRL.UI\obj\Debug\net6.0\refint\EIRL.UI.dll
+\\DELL-I7\repo\EIRL\EIRL.UI\obj\Debug\net6.0\EIRL.UI.pdb
+\\DELL-I7\repo\EIRL\EIRL.UI\obj\Debug\net6.0\ref\EIRL.UI.dll

@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "EIRL.Services/1.0.0": {
+        "dependencies": {
+          "EIRL.Core": "1.0.0",
+          "EIRL.Infrastructure": "1.0.0"
+        },
+        "runtime": {
+          "EIRL.Services.dll": {}
+        }
+      },
+      "EIRL.Core/1.0.0": {
+        "runtime": {
+          "EIRL.Core.dll": {}
+        }
+      },
+      "EIRL.Infrastructure/1.0.0": {
+        "dependencies": {
+          "EIRL.Core": "1.0.0"
+        },
+        "runtime": {
+          "EIRL.Infrastructure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EIRL.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EIRL.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EIRL.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

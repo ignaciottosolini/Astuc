@@ -1,0 +1,17 @@
+C:\repo\Astuc\Astuc.Services\bin\Debug\net6.0\Astuc.Application.deps.json
+C:\repo\Astuc\Astuc.Services\bin\Debug\net6.0\Astuc.Application.dll
+C:\repo\Astuc\Astuc.Services\bin\Debug\net6.0\Astuc.Application.pdb
+C:\repo\Astuc\Astuc.Services\bin\Debug\net6.0\Astuc.Domain.dll
+C:\repo\Astuc\Astuc.Services\bin\Debug\net6.0\Astuc.Infrastructure.dll
+C:\repo\Astuc\Astuc.Services\bin\Debug\net6.0\Astuc.Domain.pdb
+C:\repo\Astuc\Astuc.Services\bin\Debug\net6.0\Astuc.Infrastructure.pdb
+C:\repo\Astuc\Astuc.Services\obj\Debug\net6.0\Astuc.Application.csproj.AssemblyReference.cache
+C:\repo\Astuc\Astuc.Services\obj\Debug\net6.0\Astuc.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\repo\Astuc\Astuc.Services\obj\Debug\net6.0\Astuc.Application.AssemblyInfoInputs.cache
+C:\repo\Astuc\Astuc.Services\obj\Debug\net6.0\Astuc.Application.AssemblyInfo.cs
+C:\repo\Astuc\Astuc.Services\obj\Debug\net6.0\Astuc.Application.csproj.CoreCompileInputs.cache
+C:\repo\Astuc\Astuc.Services\obj\Debug\net6.0\Astuc.Application.csproj.CopyComplete
+C:\repo\Astuc\Astuc.Services\obj\Debug\net6.0\Astuc.Application.dll
+C:\repo\Astuc\Astuc.Services\obj\Debug\net6.0\refint\Astuc.Application.dll
+C:\repo\Astuc\Astuc.Services\obj\Debug\net6.0\Astuc.Application.pdb
+C:\repo\Astuc\Astuc.Services\obj\Debug\net6.0\ref\Astuc.Application.dll

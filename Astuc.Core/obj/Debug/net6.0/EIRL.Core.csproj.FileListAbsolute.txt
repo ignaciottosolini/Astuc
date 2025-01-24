@@ -1,0 +1,12 @@
+C:\Users\Master Gonza\Source\Repos\EIRL\EIRL.Core\bin\Debug\net6.0\EIRL.Core.deps.json
+C:\Users\Master Gonza\Source\Repos\EIRL\EIRL.Core\bin\Debug\net6.0\EIRL.Core.dll
+C:\Users\Master Gonza\Source\Repos\EIRL\EIRL.Core\bin\Debug\net6.0\EIRL.Core.pdb
+C:\Users\Master Gonza\Source\Repos\EIRL\EIRL.Core\obj\Debug\net6.0\EIRL.Core.csproj.AssemblyReference.cache
+C:\Users\Master Gonza\Source\Repos\EIRL\EIRL.Core\obj\Debug\net6.0\EIRL.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Master Gonza\Source\Repos\EIRL\EIRL.Core\obj\Debug\net6.0\EIRL.Core.AssemblyInfoInputs.cache
+C:\Users\Master Gonza\Source\Repos\EIRL\EIRL.Core\obj\Debug\net6.0\EIRL.Core.AssemblyInfo.cs
+C:\Users\Master Gonza\Source\Repos\EIRL\EIRL.Core\obj\Debug\net6.0\EIRL.Core.csproj.CoreCompileInputs.cache
+C:\Users\Master Gonza\Source\Repos\EIRL\EIRL.Core\obj\Debug\net6.0\EIRL.Core.dll
+C:\Users\Master Gonza\Source\Repos\EIRL\EIRL.Core\obj\Debug\net6.0\refint\EIRL.Core.dll
+C:\Users\Master Gonza\Source\Repos\EIRL\EIRL.Core\obj\Debug\net6.0\EIRL.Core.pdb
+C:\Users\Master Gonza\Source\Repos\EIRL\EIRL.Core\obj\Debug\net6.0\ref\EIRL.Core.dll

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "9EOGEfCsWSJqPua2F8qGXw0Ly4qGgUBVAycyWOJybaE=",
+  "Source": "Astuc.ApiService",
+  "BasePath": "_content/Astuc.ApiService",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

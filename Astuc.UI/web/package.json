@@ -1,0 +1,40 @@
+{
+  "name": "tailwind-vue-starter",
+  "version": "1.0.0",
+  "description": "A free and open-source starter project to help you get started with the core Flowbite Library components and Vue 3",
+  "license": "MIT",
+  "repository": "https://github.com/themesberg/tailwind-vue-starter",
+  "homepage": "https://flowbite.com/docs/getting-started/vue/",
+  "contributors": [
+    "Zoltán Szőgyényi (https://twitter.com/zoltanszogyenyi)"
+  ],
+  "author": "Bergside Inc.",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "deploy": "npm run build && xcopy /E /I /Y dist \\\\vm06\\shared\\astuc"
+  },
+  "dependencies": {
+    "@cloudinary/url-gen": "^1.16.1",
+    "@cloudinary/vue": "^1.12.0",
+    "axios": "^1.5.1",
+    "cloudinary": "^2.0.1",
+    "cloudinary-core": "^2.13.0",
+    "flowbite": "^1.8.1",
+    "flowbite-datepicker": "^1.2.4",
+    "mercadopago": "^2.0.7",
+    "tinify": "^1.7.1",
+    "vue": "^3.2.25",
+    "vue-analytics": "^5.22.1",
+    "vue-router": "^4.1.6",
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.4.1",
+    "autoprefixer": "^10.4.13",
+    "postcss": "^8.4.20",
+    "tailwindcss": "^3.2.4",
+    "vite": "^4.5.0"
+  }
+}

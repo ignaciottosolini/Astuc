@@ -1,0 +1,17 @@
+C:\Users\Master Gonza\Source\Repos\EIRL\EIRL.Services\bin\Debug\net6.0\EIRL.Services.deps.json
+C:\Users\Master Gonza\Source\Repos\EIRL\EIRL.Services\bin\Debug\net6.0\EIRL.Services.dll
+C:\Users\Master Gonza\Source\Repos\EIRL\EIRL.Services\bin\Debug\net6.0\EIRL.Services.pdb
+C:\Users\Master Gonza\Source\Repos\EIRL\EIRL.Services\obj\Debug\net6.0\EIRL.Services.csproj.AssemblyReference.cache
+C:\Users\Master Gonza\Source\Repos\EIRL\EIRL.Services\obj\Debug\net6.0\EIRL.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Master Gonza\Source\Repos\EIRL\EIRL.Services\obj\Debug\net6.0\EIRL.Services.AssemblyInfoInputs.cache
+C:\Users\Master Gonza\Source\Repos\EIRL\EIRL.Services\obj\Debug\net6.0\EIRL.Services.AssemblyInfo.cs
+C:\Users\Master Gonza\Source\Repos\EIRL\EIRL.Services\obj\Debug\net6.0\EIRL.Services.csproj.CoreCompileInputs.cache
+C:\Users\Master Gonza\Source\Repos\EIRL\EIRL.Services\obj\Debug\net6.0\EIRL.Services.dll
+C:\Users\Master Gonza\Source\Repos\EIRL\EIRL.Services\obj\Debug\net6.0\refint\EIRL.Services.dll
+C:\Users\Master Gonza\Source\Repos\EIRL\EIRL.Services\obj\Debug\net6.0\EIRL.Services.pdb
+C:\Users\Master Gonza\Source\Repos\EIRL\EIRL.Services\obj\Debug\net6.0\ref\EIRL.Services.dll
+C:\Users\Master Gonza\Source\Repos\EIRL\EIRL.Services\bin\Debug\net6.0\EIRL.Core.dll
+C:\Users\Master Gonza\Source\Repos\EIRL\EIRL.Services\bin\Debug\net6.0\EIRL.Infrastructure.dll
+C:\Users\Master Gonza\Source\Repos\EIRL\EIRL.Services\bin\Debug\net6.0\EIRL.Core.pdb
+C:\Users\Master Gonza\Source\Repos\EIRL\EIRL.Services\bin\Debug\net6.0\EIRL.Infrastructure.pdb
+C:\Users\Master Gonza\Source\Repos\EIRL\EIRL.Services\obj\Debug\net6.0\EIRL.Services.csproj.CopyComplete

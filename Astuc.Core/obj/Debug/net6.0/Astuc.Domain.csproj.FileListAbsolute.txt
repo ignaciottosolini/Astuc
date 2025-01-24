@@ -1,0 +1,12 @@
+C:\repo\Astuc\Astuc.Core\bin\Debug\net6.0\Astuc.Domain.deps.json
+C:\repo\Astuc\Astuc.Core\bin\Debug\net6.0\Astuc.Domain.dll
+C:\repo\Astuc\Astuc.Core\bin\Debug\net6.0\Astuc.Domain.pdb
+C:\repo\Astuc\Astuc.Core\obj\Debug\net6.0\Astuc.Domain.csproj.AssemblyReference.cache
+C:\repo\Astuc\Astuc.Core\obj\Debug\net6.0\Astuc.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\repo\Astuc\Astuc.Core\obj\Debug\net6.0\Astuc.Domain.AssemblyInfoInputs.cache
+C:\repo\Astuc\Astuc.Core\obj\Debug\net6.0\Astuc.Domain.AssemblyInfo.cs
+C:\repo\Astuc\Astuc.Core\obj\Debug\net6.0\Astuc.Domain.csproj.CoreCompileInputs.cache
+C:\repo\Astuc\Astuc.Core\obj\Debug\net6.0\Astuc.Domain.dll
+C:\repo\Astuc\Astuc.Core\obj\Debug\net6.0\refint\Astuc.Domain.dll
+C:\repo\Astuc\Astuc.Core\obj\Debug\net6.0\Astuc.Domain.pdb
+C:\repo\Astuc\Astuc.Core\obj\Debug\net6.0\ref\Astuc.Domain.dll
