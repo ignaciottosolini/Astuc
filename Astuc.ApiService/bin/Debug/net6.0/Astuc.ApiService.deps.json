@@ -1025,7 +1025,10 @@
           "MimeKit": "4.4.0"
         },
         "runtime": {
-          "Astuc.Application.dll": {}
+          "Astuc.Application.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "Astuc.Domain/1.0.0": {
@@ -1033,7 +1036,10 @@
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "6.0.26"
         },
         "runtime": {
-          "Astuc.Domain.dll": {}
+          "Astuc.Domain.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "Astuc.Infrastructure/1.0.0": {
@@ -1045,7 +1051,10 @@
           "Microsoft.EntityFrameworkCore.SqlServer": "7.0.13"
         },
         "runtime": {
-          "Astuc.Infrastructure.dll": {}
+          "Astuc.Infrastructure.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }

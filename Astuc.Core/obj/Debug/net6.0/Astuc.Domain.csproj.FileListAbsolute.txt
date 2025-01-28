@@ -10,3 +10,16 @@ C:\repo\Astuc\Astuc.Core\obj\Debug\net6.0\Astuc.Domain.dll
 C:\repo\Astuc\Astuc.Core\obj\Debug\net6.0\refint\Astuc.Domain.dll
 C:\repo\Astuc\Astuc.Core\obj\Debug\net6.0\Astuc.Domain.pdb
 C:\repo\Astuc\Astuc.Core\obj\Debug\net6.0\ref\Astuc.Domain.dll
+C:\Users\ignac\Downloads\Astuc\Astuc.Core\bin\Debug\net6.0\Astuc.Domain.deps.json
+C:\Users\ignac\Downloads\Astuc\Astuc.Core\bin\Debug\net6.0\Astuc.Domain.dll
+C:\Users\ignac\Downloads\Astuc\Astuc.Core\bin\Debug\net6.0\Astuc.Domain.pdb
+C:\Users\ignac\Downloads\Astuc\Astuc.Core\obj\Debug\net6.0\Astuc.Domain.csproj.AssemblyReference.cache
+C:\Users\ignac\Downloads\Astuc\Astuc.Core\obj\Debug\net6.0\Astuc.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ignac\Downloads\Astuc\Astuc.Core\obj\Debug\net6.0\Astuc.Domain.AssemblyInfoInputs.cache
+C:\Users\ignac\Downloads\Astuc\Astuc.Core\obj\Debug\net6.0\Astuc.Domain.AssemblyInfo.cs
+C:\Users\ignac\Downloads\Astuc\Astuc.Core\obj\Debug\net6.0\Astuc.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ignac\Downloads\Astuc\Astuc.Core\obj\Debug\net6.0\Astuc.Domain.sourcelink.json
+C:\Users\ignac\Downloads\Astuc\Astuc.Core\obj\Debug\net6.0\Astuc.Domain.dll
+C:\Users\ignac\Downloads\Astuc\Astuc.Core\obj\Debug\net6.0\refint\Astuc.Domain.dll
+C:\Users\ignac\Downloads\Astuc\Astuc.Core\obj\Debug\net6.0\Astuc.Domain.pdb
+C:\Users\ignac\Downloads\Astuc\Astuc.Core\obj\Debug\net6.0\ref\Astuc.Domain.dll

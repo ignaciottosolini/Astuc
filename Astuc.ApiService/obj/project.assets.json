@@ -4540,19 +4540,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\D01-VM01\\.nuget\\packages\\": {}
+    "C:\\Users\\ignac\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\repo\\Astuc\\Astuc.ApiService\\Astuc.ApiService.csproj",
+      "projectUniqueName": "C:\\Users\\ignac\\Downloads\\Astuc\\Astuc.ApiService\\Astuc.ApiService.csproj",
       "projectName": "Astuc.ApiService",
-      "projectPath": "C:\\repo\\Astuc\\Astuc.ApiService\\Astuc.ApiService.csproj",
-      "packagesPath": "C:\\Users\\D01-VM01\\.nuget\\packages\\",
-      "outputPath": "C:\\repo\\Astuc\\Astuc.ApiService\\obj\\",
+      "projectPath": "C:\\Users\\ignac\\Downloads\\Astuc\\Astuc.ApiService\\Astuc.ApiService.csproj",
+      "packagesPath": "C:\\Users\\ignac\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ignac\\Downloads\\Astuc\\Astuc.ApiService\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\D01-VM01\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ignac\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -4560,21 +4565,20 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\repo\\Astuc\\Astuc.Core\\Astuc.Domain.csproj": {
-              "projectPath": "C:\\repo\\Astuc\\Astuc.Core\\Astuc.Domain.csproj"
+            "C:\\Users\\ignac\\Downloads\\Astuc\\Astuc.Core\\Astuc.Domain.csproj": {
+              "projectPath": "C:\\Users\\ignac\\Downloads\\Astuc\\Astuc.Core\\Astuc.Domain.csproj"
             },
-            "C:\\repo\\Astuc\\Astuc.Infrastructure\\Astuc.Infrastructure.csproj": {
-              "projectPath": "C:\\repo\\Astuc\\Astuc.Infrastructure\\Astuc.Infrastructure.csproj"
+            "C:\\Users\\ignac\\Downloads\\Astuc\\Astuc.Infrastructure\\Astuc.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\ignac\\Downloads\\Astuc\\Astuc.Infrastructure\\Astuc.Infrastructure.csproj"
             },
-            "C:\\repo\\Astuc\\Astuc.Services\\Astuc.Application.csproj": {
-              "projectPath": "C:\\repo\\Astuc\\Astuc.Services\\Astuc.Application.csproj"
+            "C:\\Users\\ignac\\Downloads\\Astuc\\Astuc.Services\\Astuc.Application.csproj": {
+              "projectPath": "C:\\Users\\ignac\\Downloads\\Astuc\\Astuc.Services\\Astuc.Application.csproj"
             }
           }
         }
@@ -4588,7 +4592,8 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      }
+      },
+      "SdkAnalysisLevel": "9.0.100"
     },
     "frameworks": {
       "net6.0": {
@@ -4652,7 +4657,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }

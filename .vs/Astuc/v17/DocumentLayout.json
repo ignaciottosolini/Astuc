@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ignac\\Downloads\\Astuc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6278B3ED-9F70-469D-B1AA-0746B063E673}|Astuc.UI\\Astuc.UI.csproj|c:\\users\\ignac\\downloads\\astuc\\astuc.ui\\web\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{6278B3ED-9F70-469D-B1AA-0746B063E673}|Astuc.UI\\Astuc.UI.csproj|solutionrelative:astuc.ui\\web\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6278B3ED-9F70-469D-B1AA-0746B063E673}|Astuc.UI\\Astuc.UI.csproj|c:\\users\\ignac\\downloads\\astuc\\astuc.ui\\web\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6278B3ED-9F70-469D-B1AA-0746B063E673}|Astuc.UI\\Astuc.UI.csproj|solutionrelative:astuc.ui\\web\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\ignac\\Downloads\\Astuc\\Astuc.UI\\web\\.gitignore",
+              "RelativeDocumentMoniker": "Astuc.UI\\web\\.gitignore",
+              "ToolTip": "C:\\Users\\ignac\\Downloads\\Astuc\\Astuc.UI\\web\\.gitignore",
+              "RelativeToolTip": "Astuc.UI\\web\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-28T09:50:57.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "package.json",
+              "DocumentMoniker": "C:\\Users\\ignac\\Downloads\\Astuc\\Astuc.UI\\web\\package.json",
+              "RelativeDocumentMoniker": "Astuc.UI\\web\\package.json",
+              "ToolTip": "C:\\Users\\ignac\\Downloads\\Astuc\\Astuc.UI\\web\\package.json",
+              "RelativeToolTip": "Astuc.UI\\web\\package.json",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-24T22:19:07.736Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -9,3 +9,15 @@ C:\repo\Astuc\Astuc.UI\obj\Debug\net6.0\Astuc.UI.dll
 C:\repo\Astuc\Astuc.UI\obj\Debug\net6.0\refint\Astuc.UI.dll
 C:\repo\Astuc\Astuc.UI\obj\Debug\net6.0\Astuc.UI.pdb
 C:\repo\Astuc\Astuc.UI\obj\Debug\net6.0\ref\Astuc.UI.dll
+C:\Users\ignac\Downloads\Astuc\Astuc.UI\bin\Debug\net6.0\Astuc.UI.deps.json
+C:\Users\ignac\Downloads\Astuc\Astuc.UI\bin\Debug\net6.0\Astuc.UI.dll
+C:\Users\ignac\Downloads\Astuc\Astuc.UI\bin\Debug\net6.0\Astuc.UI.pdb
+C:\Users\ignac\Downloads\Astuc\Astuc.UI\obj\Debug\net6.0\Astuc.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ignac\Downloads\Astuc\Astuc.UI\obj\Debug\net6.0\Astuc.UI.AssemblyInfoInputs.cache
+C:\Users\ignac\Downloads\Astuc\Astuc.UI\obj\Debug\net6.0\Astuc.UI.AssemblyInfo.cs
+C:\Users\ignac\Downloads\Astuc\Astuc.UI\obj\Debug\net6.0\Astuc.UI.csproj.CoreCompileInputs.cache
+C:\Users\ignac\Downloads\Astuc\Astuc.UI\obj\Debug\net6.0\Astuc.UI.sourcelink.json
+C:\Users\ignac\Downloads\Astuc\Astuc.UI\obj\Debug\net6.0\Astuc.UI.dll
+C:\Users\ignac\Downloads\Astuc\Astuc.UI\obj\Debug\net6.0\refint\Astuc.UI.dll
+C:\Users\ignac\Downloads\Astuc\Astuc.UI\obj\Debug\net6.0\Astuc.UI.pdb
+C:\Users\ignac\Downloads\Astuc\Astuc.UI\obj\Debug\net6.0\ref\Astuc.UI.dll

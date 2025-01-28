@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "wJ1u3Nq/LHw=",
+  "dgSpecHash": "Hubin7qirtU=",
   "success": true,
-  "projectFilePath": "C:\\repo\\Astuc\\Astuc.UI\\Astuc.UI.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\ignac\\Downloads\\Astuc\\Astuc.UI\\Astuc.UI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ignac\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\ignac\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\ignac\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512"
+  ],
   "logs": []
 }

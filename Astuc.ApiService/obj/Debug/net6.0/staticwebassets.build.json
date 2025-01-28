@@ -1,11 +1,12 @@
 {
   "Version": 1,
-  "Hash": "1yV8lWtNybO35tVxzF69RbVEH2498U/9RUDgaej2bs4=",
+  "Hash": "s2WS3wjn+RO9kTb0GriV9FroxJIYUsb8oZaBDIJPktE=",
   "Source": "Astuc.ApiService",
   "BasePath": "_content/Astuc.ApiService",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [],
-  "Assets": []
+  "Assets": [],
+  "Endpoints": []
 }

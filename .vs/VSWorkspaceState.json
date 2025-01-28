@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Astuc.Services",
+    "\\Astuc.Services\\Models",
+    "\\Astuc.UI",
+    "\\Astuc.UI\\web",
+    "\\Astuc.UI\\web\\src",
+    "\\Astuc.UI\\web\\src\\views",
+    "\\Astuc.UI\\web\\src\\views\\components",
+    "\\Astuc.UI\\web\\src\\views\\pages"
+  ],
+  "PreviewInSolutionExplorer": false
+}
